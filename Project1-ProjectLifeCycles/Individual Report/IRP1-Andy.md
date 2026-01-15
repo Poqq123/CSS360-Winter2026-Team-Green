@@ -38,7 +38,7 @@
 
 7. ### Global Health
     * **Model: Agile** \
-    The whole company is consist of only 5 people, so they need a lightweight and adaptable workflow. The goal of the software is vague, it only says to address current global challenges, but didn't specify which challenge. So **agile** would be the best fit for this proposal.
+    The whole company consists of only 5 people, so they need a lightweight and flexiable workflow. The goal of the software is vague, it only states to address current global challenges, but didn't specify which challenge. So **agile** would be the best fit for this proposal.
 
 ## Models Graph
 ![SDLC Model Comparison Diagram](https://www.scnsoft.com/software-development/software-development-models/8-software-development-models.png)\
