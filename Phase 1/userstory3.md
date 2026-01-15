@@ -1,0 +1,1 @@
+Sir Professor Anton von Albrechtsberger, PhD. is an extremely wealthy socialite who wants to plan his very frequent and scandalous parties. He clicks on the arrows to the right of the month to look at the future. He clicks on the + icon to add a new event and types in "Party". He clicks on the save button.
