@@ -1,9 +1,9 @@
 # Project 1: Project life-cycles report 
 
-#### This is an individual report for project one. 
-#### Created by Andy W.
-#### [GitHub repository](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
-#### Last Updated: 01/15/2026
+- This is an individual report for project one. 
+- Created by Andy W.
+- [GitHub repository](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
+- Last Updated: 01/15/2026
 
 ## Table of Contents
 - [Proposals](#project-proposals)
