@@ -41,10 +41,10 @@
     The whole company is consist of only 5 people, so they need a lightweight and adaptable workflow. The goal of the software is vague, it only says to address current global challenges, but didn't specify which challenge. So **agile** would be the best fit for this proposal.
 
 ## Models Graph
-![This is an alt text.](https://www.scnsoft.com/software-development/software-development-models/8-software-development-models.png)\
+![SDLC Model Comparison Diagram](https://www.scnsoft.com/software-development/software-development-models/8-software-development-models.png)\
 [Source of the first diagram](https://www.scnsoft.com/software-development/software-development-models)
 
-![This is an alt text.](https://media.geeksforgeeks.org/wp-content/uploads/20240117123211/SDLC-Models-%7C-Software-Development-Models-768.jpg)\
+![SDLC Model Circular Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240117123211/SDLC-Models-%7C-Software-Development-Models-768.jpg)\
 [Source of the second diagram](https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/)
 
 ## SDLC Model Comparison Table
@@ -57,5 +57,5 @@
 | **Spiral** | Very High | Medium | High | Very High |
 | **Agile XP** | Very High | Very High | Very High | Low |
 
-This table is a product of my subjective opinion intended to guide our model selection.
+This table is a product of my subjective opinion intended to assist us in our model selection.
 [Reference Used](https://www.scnsoft.com/software-development/software-development-models) 
