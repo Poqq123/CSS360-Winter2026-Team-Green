@@ -52,8 +52,8 @@
 | Model | Flexibility to Change | Delivery Speed | Client Involvement | Risk Management |
 | :--- | :--- | :--- | :--- | :--- |
 | **Incremental** | Medium | High | Medium | Medium |
-| **Waterfall** | Low | Slow | Low | High |
-| **Agile** | High | High | High | Low |
+| **Waterfall** | Low | Low | Low | Low |
+| **Agile** | High | High | High | High |
 | **Spiral** | Very High | Medium | High | Very High |
 | **Agile XP** | Very High | Very High | Very High | Low |
 
