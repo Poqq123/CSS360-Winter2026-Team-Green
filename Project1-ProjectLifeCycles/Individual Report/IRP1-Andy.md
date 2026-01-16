@@ -53,9 +53,9 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Incremental** | Medium | High | Medium | Medium |
 | **Waterfall** | Low | Low | Low | Low |
-| **Agile** | High | High | High | High |
+| **Agile** | High | High | High | Medium |
 | **Spiral** | Very High | Medium | High | Very High |
-| **Agile XP** | Very High | Very High | Very High | Low |
+| **Agile XP** | Very High | Very High | Very High | Medium |
 
 This table is a product of my subjective opinion intended to assist us in our model selection.
 [Reference Used](https://www.scnsoft.com/software-development/software-development-models) 
