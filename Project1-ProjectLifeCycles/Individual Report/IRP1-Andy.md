@@ -5,7 +5,7 @@
 - [GitHub repository](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
 - Last Updated: 01/15/2026
 
-## Table of Contents
+## 📂 Table of Contents
 - [Proposals](#project-proposals)
 - [Diagrams](#models-graph)
 - [Model Comparison Table](#sdlc-model-comparison-table)
