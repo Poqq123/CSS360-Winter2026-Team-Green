@@ -14,7 +14,7 @@
 
 1. ### New e-Commerce site
     * **Model: Incremental** \
-    This is a long-term project that requires feature updates on an ongoing basis. Senior developers can do the most important work in the first phase and junior or new hires can build on it later on. Developers can launch an early release with core shopping features and add complex features like create customizable design later on. Therefore, **incremental** would be the best fit for this proposal.
+    This is a long-term project that requires feature updates on an ongoing basis. Senior developers can do the most important work in the first phase and junior or new hires can build on it later on. Developers can launch an early release with core shopping features and add complex features like create customizable design later on. Therefore, **incremental** would be the best fit for this project.
     
 2. ### Dental office site
     * **Model: Agile** \
@@ -30,15 +30,15 @@
 
 5. ### Reducing Traffic
     * **Model: Spiral** \
-    Real time performance and reliability are critical and must be tested early. Spiral model is designed to mitigate risks and increase capabilities as it progress. So **spiral** would be the best fit for this proposal.
+    Real time performance and reliability are critical and must be tested early. Spiral model is designed to mitigate risks and increase capabilities as it progress. So **spiral** would be the best fit for this project.
 
 6. ### Educational game
     * **Model: Agile XP** \
-    Internal and external customers expect to use the games as soon as possible for their own testing effort. Extreme programming can embrace preliminary and evolving set of requirements. So **agile XP** would be the best fit for this proposal.
+    Internal and external customers expect to use the games as soon as possible for their own testing effort. Extreme programming can embrace preliminary and evolving set of requirements. So **agile XP** would be the best fit for this project.
 
 7. ### Global Health
     * **Model: Agile** \
-    The whole company consists of only 5 people, so they need a lightweight and flexiable workflow. The goal of the software is vague, it only states to address current global challenges, but didn't specify which challenge. So **agile** would be the best fit for this proposal.
+    The whole company consists of only 5 people, so they need a lightweight and flexiable workflow. The goal of the software is vague, it only states to address current global challenges, but didn't specify which challenge. So **agile** would be the best fit for this project.
 
 ## Models Graph
 ![SDLC Model Comparison Diagram](https://www.scnsoft.com/software-development/software-development-models/8-software-development-models.png)\
