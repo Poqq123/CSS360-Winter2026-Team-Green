@@ -6,13 +6,15 @@
 
 ## Table of Contents
 
-1. [SDLC Models](##SDLC Models)
-   - [Why use SDLC?](####Why use SDLC?)
+1. [SDLC Models](##SDLC-Models)
    
-   - [Every SDLC Model](####Every SDLC Model)
+   - [Why use SDLC?](####Why-use-SDLC?)
    
-   - [How to Evaluate Best-Fit](####How to Evaluate Best-Fit)
-2. [Project Proposals](##Project Proposals)
+   - [Every SDLC Model](####Every-SDLC-Model)
+   
+   - [How to Evaluate Best-Fit](####How-to-Evaluate-Best-Fit)
+
+2. [Project Proposals](##Project-Proposals)
 
 ---
 
@@ -119,5 +121,3 @@ Projects with more sound requirements may be better with the waterfall method, w
 **Justification:** The project will start really small, and grow very time, so agile allows it to adapt as they learn, which works well for them. It's also flexible for limited resources.
 
 ---
-
-
