@@ -6,15 +6,15 @@
 
 ## Table of Contents
 
-1. [SDLC Models](##SDLC-Models)
+1. [SDLC Models](##sdlc-models)
    
-   - [Why use SDLC?](####Why-use-SDLC?)
+   - [Why use SDLC?](####why-use-sdlc?)
    
-   - [Every SDLC Model](####Every-SDLC-Model)
+   - [Every SDLC Model](####every-sdlc-model)
    
-   - [How to Evaluate Best-Fit](####How-to-Evaluate-Best-Fit)
+   - [How to Evaluate Best-Fit](####how-to-evaluate-best-fit)
 
-2. [Project Proposals](##Project-Proposals)
+2. [Project Proposals](##project-proposals)
 
 ---
 
