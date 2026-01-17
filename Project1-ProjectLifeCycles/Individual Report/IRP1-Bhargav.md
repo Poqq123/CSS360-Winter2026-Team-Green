@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-
-
 1. [SDLC Models](#sdlc-models)
    
    - [Why use SDLC?](#why-use-sdlc)
@@ -26,7 +24,7 @@
 
 *The following contains information about the Software development life cycle (SDLC).*
 
-#### Why use SDLC?
+### Why use SDLC?
 
 SDLC provides a structured approach to building software. It defines phases such as:
 
@@ -44,7 +42,7 @@ SDLC provides a structured approach to building software. It defines phases such
 
 Using SDLC helps teams improve coding quality, manage time & resources, and also reduce risks for an overall better final product.
 
-#### Every SDLC Model
+### Every SDLC Model
 
 SDLC follows the same core phases (outlined above), but can be very different in how those phases are executed. Some phases want to be very documentation focused, whilst others can focus more on speed.
 
@@ -60,7 +58,7 @@ SDLC follows the same core phases (outlined above), but can be very different in
 
 > This table is from my groupmate's individual report: *Andy (@Poqq123)*
 
-#### How to Evaluate Best-Fit
+### How to Evaluate Best-Fit
 
 To choose the best model for your project, there are several factors that come into play. 
 
@@ -80,43 +78,43 @@ Projects with more sound requirements may be better with the waterfall method, w
 
 ## Project Proposals
 
-#### 1. e-Commerce Site
+### 1. e-Commerce Site
 
 **Best Method:** *Incremental*
 
 **Justification:** Incremental allows for the team to build in small pieces. We can start with basic shopping features, then add much more customization later. It's also good for teams with different experience levels.
 
-#### 2. Dental Office Site
+### 2. Dental Office Site
 
 **Best Method:** *Agile*
 
 **Justification:** Agile is best because the dentist wants to add features over time, and not all at once. Agile is great for frequent changes as new ideas/problems come up. It has a very flexible schedule.
 
-#### 3. Nuclear Power Plant
+### 3. Nuclear Power Plant
 
 **Best Method:** *Spiral*
 
 **Justification:** Spiral is best because it focuses on identifying and reducing risks very early on, something that is necessary for something like a nuclear power plant. It is really well suited for applications that need to be safe & secure.
 
-#### 4. Department of Transportation
+### 4. Department of Transportation
 
 **Best Method:** *Waterfall*
 
 **Justification:** This project has very well detailed requirements from the start, something that is great for this method. The team has also done projects that are similar before too. Changes are unlikely, so waterfall is the best method.
 
-#### 5. Reducing Traffic
+### 5. Reducing Traffic
 
 **Best Method:** *Spiral*
 
 **Justification:** This software relies on a lot of real time data, and networking, which adds a lot of risk. these risks need to be addressed early on. So spiral is the best method.
 
-#### 6. Educational Game
+### 6. Educational Game
 
 **Best Method:** *Agile XP*
 
 **Justification:** The requirements for a game change often, and the fixes need to be released very quickly. Agile XP follows exactly this, whilst also supporting frequent testing, something that is very essential to developing a game.
 
-#### 7. Global Health
+### 7. Global Health
 
 **Best Method:** *Agile*
 
