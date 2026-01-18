@@ -20,5 +20,5 @@
 | **Agile XP**    | Very High             | Very High      | Very High          | Medium          |
 
 ## Reference Used
-- [9 Ways to Structure Your Software Engineering Workflows: Top SDLC Models Explained]((https://www.scnsoft.com/software-development/software-development-models))
+- [9 Ways to Structure Your Software Engineering Workflows: Top SDLC Models Explained](https://www.scnsoft.com/software-development/software-development-models)
 - [Software Development Models - SDLC Models](https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/)
