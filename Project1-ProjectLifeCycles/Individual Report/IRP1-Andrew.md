@@ -24,3 +24,7 @@ Agile would be the best model here as the requirements for each game will not be
 ## #7: Global Health
 **Model**: Agile
 Agile would be the best model here as global challenges may change and emerge and you may want to address these with evolving software. You also have a small number of developers, and agile allows for less overhead.
+
+![SDLC](https://i0.wp.com/melsatar.blog/wp-content/uploads/2012/03/sdlc.png?fit=830%2C374&ssl=1)
+
+[source](https://melsatar.blog/2012/03/15/software-development-life-cycle-models-and-methodologies/)
