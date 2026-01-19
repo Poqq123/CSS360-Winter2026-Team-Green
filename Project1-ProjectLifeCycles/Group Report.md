@@ -75,6 +75,12 @@ We thought of using spiral for this project. However when doing spiral you are d
 - Very detailed and stable 100 page specification.
 - Similar projects
 
+**Other considered model(s)**: 
+None, it was explained this is a very predicable project so we have no conflicts on choosing this model.
+
+**Key Aspect(s):** 
+This is a very predicable project so waterfall would go very smoothly. 
+
 ### 5. Reducing Traffic
 
 **Best Method:** Spiral
