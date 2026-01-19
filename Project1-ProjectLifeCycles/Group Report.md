@@ -60,6 +60,9 @@
 
 - Validation and Verification for each iteration
 
+**Other considered model(s)**: 
+We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But shis would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
+
 ### 4. Department of Transportation
 
 **Best Method:** 
@@ -71,7 +74,7 @@
 **Best Method:** Spiral
 
 **Justification:** 
-- GPS's also are high stake software
+- GPS's are high stake software
   
 - People need to commute to vital events in their life and can't afford an issue
   
