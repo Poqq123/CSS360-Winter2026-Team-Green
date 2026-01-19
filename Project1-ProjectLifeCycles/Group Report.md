@@ -65,9 +65,13 @@ We thought of using spiral for this project. However when doing spiral you are d
 
 ### 4. Department of Transportation
 
-**Best Method:** 
+**Best Method:** Waterfall
 
 **Justification:** 
+- The requirements are strict and very unlikely to change
+- It works with a fixed scope of what your trying to accomplish, timeline and an experienced team
+- Very detailed and stable 100 page specification.
+- Similar projects
 
 ### 5. Reducing Traffic
 
