@@ -83,7 +83,7 @@
 
 - Good use case for when requirements are not clearly defined or known from the beginning
 
-**Other consider model(s)**: 
+**Other considered model(s)**: 
 Incremental was also considered, but agile was the better option here as this project is in need of the quickest response time to changes and most engagement with customers.
 
 **Key Aspect(s):** 
