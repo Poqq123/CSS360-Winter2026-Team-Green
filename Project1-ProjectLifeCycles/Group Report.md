@@ -102,6 +102,7 @@ This is a very predicable project so waterfall would go very smoothly.
 - Better for an ever evolving product
 
 - Good use case for when requirements are not clearly defined or known from the beginning
+- Supports Regular feedback and fast updates
 
 **Other considered model(s)**: 
 Incremental was also considered, but agile was the better option here as this project is in need of the quickest response time, which agile emphasizes more than incremental.
