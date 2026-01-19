@@ -75,9 +75,13 @@
 
 ### 6. Educational Game
 
-**Best Method:** 
+**Best Method:** *Agile*
 
 **Justification:** 
+
+- Better for an ever evolving product
+
+- Good use case for when requirements are not clearly defined or known from the beginning
 
 ### 7. Global Health
 
