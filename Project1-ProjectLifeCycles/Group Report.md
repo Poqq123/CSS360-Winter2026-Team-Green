@@ -67,6 +67,9 @@ Engineers need to do each step along side a shopping expert
 **Other considered model(s)**: 
 We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But shis would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
 
+**Key Aspect(s):** 
+Very high physical risk so constant testing is neccessary.
+
 ### 4. Department of Transportation
 
 **Best Method:** Waterfall
