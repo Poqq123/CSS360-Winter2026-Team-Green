@@ -1,7 +1,8 @@
 # Project 1: Project life-cycles report
 
 > This is an group report for project one. \
-> Created by Team Green
+> Created by Team Green. \
+> GitHub Link: [Click me to jump to the webpage](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
 
 ## Table of Contents
 
