@@ -85,6 +85,7 @@ We thought of using spiral for this project. However when doing spiral you are d
 - People need to commute to vital events in their life and can't afford an issue
   
 - Many tests after the final software is complete
+- Testing early helps catch issues before it gets expensive
 
 ### 6. Educational Game
 
