@@ -86,6 +86,6 @@
 
 - [9 Ways to Structure Your Software Engineering Workflows: Top SDLC Models Explained](https://www.scnsoft.com/software-development/software-development-models)
 - [Software Development Models - SDLC Models](https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/)
-- [Software Development Life Cycle Models and Methodologies]([Software Development Life Cycle Models and Methodologies - Mohamed Sami](https://melsatar.blog/2012/03/15/software-development-life-cycle-models-and-methodologies/))
+- [Software Development Life Cycle Models and Methodologies](https://melsatar.blog/2012/03/15/software-development-life-cycle-models-and-methodologies/)
 
 ---
