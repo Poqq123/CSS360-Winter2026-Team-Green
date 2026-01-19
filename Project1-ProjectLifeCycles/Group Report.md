@@ -49,10 +49,12 @@ Engineers need to do each step along side a shopping expert
 **Justification:** 
 
 - Much more flexible
-
 - Better for an evolving product (drastic changes over time)
 - Requirements are fully defined at the beginning
 - Feedback can be added quickly
+
+**Other considered model(s)**:
+We thought using Incremental would a good second option because the website would be built in small portions and little information would be needed. Small features like online appointments and reminders could be added later on in sperate increments. In the end we didn't choose this because agile is more flexible when you have a change of ideas.
 
 ### 3. Nuclear Power Plant
 
