@@ -99,6 +99,12 @@ Customers want to use new games as soon as possible, and the requirements for th
 
 - Better for unclearly defined requirements, and this project seeks to address current global challenges, which may quickly evolve and emerge
 
+**Other considered model(s)**: 
+Incremental was also considered, but agile was chosen here due to agile's emphasis on less overhead and simplicity, which lends itself well to small team sizes.
+
+**Key Aspect(s):** 
+The project being designed to address an issue that can rapidly evolve was the biggest aspect that made us choose agile here. This aspect was critical as different models are better suited for changing requirements, and agile is the best in that regard.
+
 ---
 
 ## Reference Used
