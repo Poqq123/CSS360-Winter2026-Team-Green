@@ -64,19 +64,21 @@ Client wants to continually add capabilities and new features to the website. Cl
 
 ### 3. Nuclear Power Plant
 
-**Best Method:** *Spiral*
+**Best Method:** *V-Model*
 
 **Justification:** 
 
-- Better for risk evaluation especially for a nuclear power plant
+- Clear, fixed requirements
 
-- Validation and Verification for each iteration lessens the risks
+- System safety is critical because failure can result in loss of life and catastrophes.
+
+- Nuclear power plant software cannot simply release a patch if there is a bug after launch. The software must be perfect upon deployment.
 
 **Other considered model(s)**: 
-We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But shis would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
+We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But this would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
 
 **Key Aspect(s):** 
-Very high physical risk so constant testing is neccessary.
+We have to ensure correctness over speed because any failure can cause catastophe. The software must be reliable and guarantee safety.
 
 ### 4. Department of Transportation
 
