@@ -1,13 +1,14 @@
 # Project 1: Project life-cycles report
 
-> This is an group report for project one. \
+> This is a group report for project one. \
 > Created by Team Green. \
-> GitHub Link: [Click me to jump to the webpage](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
+> GitHub Link: [Click me to jump to the Repository](https://github.com/Poqq123/CSS360-Winter2026-Team-Green.git)
 
 ## Table of Contents
 
 - [Model Comparison Table](#sdlc-model-comparison-table)
 - [Project Proposals](#project-proposals)
+- [SDLC Graphic](#sdlc-graphic)
 - [Reference](#reference-used)
 
 ## SDLC Model Comparison Table
@@ -36,9 +37,9 @@
 - Can get advice from the client between iterations.
 
 - Good with teams with different experience levels
-  
+
 **Other considered model(s)**: 
-We thought of waterfall as another option, since they were asking for a shopping catalog which seems pretty straight forward. However these enginners likely do not have shopping expertise so it would be good to do it iterativally with an expertee.
+We thought of waterfall as another option, since they were asking for a shopping catalog which seems pretty straight forward. However these engineers likely do not have shopping expertise so it would be good to do it iteratively with an expert.
 
 **Key Aspect(s):** 
 Engineers need to do each step along side a shopping expert 
@@ -50,6 +51,7 @@ Engineers need to do each step along side a shopping expert
 **Justification:** 
 
 - Much more flexible
+
 - Better for an evolving product (drastic changes over time)
 
 - Requirements are fully defined at the beginning
@@ -57,7 +59,7 @@ Engineers need to do each step along side a shopping expert
 - Feedback can be added quickly
 
 **Other considered model(s)**:
-We thought using Incremental would a good second option because the website would be built in small portions and little information would be needed. Small features like online appointments and reminders could be added later on in sperate increments. In the end we didn't choose this because agile is more flexible when you have a change of ideas.
+We thought using Incremental would a good second option because the website would be built in small portions and little information would be needed. Small features like online appointments and reminders could be added later on in later iterations. In the end we didn't choose this because agile is more flexible when you have a change of ideas.
 
 **Key Aspect(s):**
 Client wants to continually add capabilities and new features to the website. Client only needs basic features at first.
@@ -75,10 +77,10 @@ Client wants to continually add capabilities and new features to the website. Cl
 - Nuclear power plant software cannot simply release a patch if there is a bug after launch. The software must be perfect upon deployment.
 
 **Other considered model(s)**: 
-We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But this would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
+We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been complete. But this would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
 
 **Key Aspect(s):** 
-We have to ensure correctness over speed because any failure can cause catastophe. The software must be reliable and guarantee safety.
+We have to ensure correctness over speed because any failure can cause catastrophes. The software must be reliable and guarantee safety.
 
 ### 4. Department of Transportation
 
@@ -152,6 +154,8 @@ Incremental was also considered, but agile was chosen here due to agile's emphas
 
 **Key Aspect(s):** 
 The project being designed to address an issue that can rapidly evolve was the biggest aspect that made us choose agile here. This aspect was critical as different models are better suited for changing requirements, and agile is the best in that regard.
+
+## SDLC Graphic
 
 ![SDLC Diagram](https://datarob.com/content/images/2019/08/SDLC-stages.png)
 ---
