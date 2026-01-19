@@ -148,6 +148,7 @@ Incremental was also considered, but agile was chosen here due to agile's emphas
 **Key Aspect(s):** 
 The project being designed to address an issue that can rapidly evolve was the biggest aspect that made us choose agile here. This aspect was critical as different models are better suited for changing requirements, and agile is the best in that regard.
 
+![SDLC Diagram](https://datarob.com/content/images/2019/08/SDLC-stages.png)
 ---
 
 ## Reference Used
@@ -155,5 +156,6 @@ The project being designed to address an issue that can rapidly evolve was the b
 - [9 Ways to Structure Your Software Engineering Workflows: Top SDLC Models Explained](https://www.scnsoft.com/software-development/software-development-models)
 - [Software Development Models - SDLC Models](https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/)
 - [Software Development Life Cycle Models and Methodologies](https://melsatar.blog/2012/03/15/software-development-life-cycle-models-and-methodologies/)
+- [Software Development Life Cycle (SDLC) - Basics, Stages, Models](https://datarob.com/essentials-software-development-life-cycle/)
 
 ---
