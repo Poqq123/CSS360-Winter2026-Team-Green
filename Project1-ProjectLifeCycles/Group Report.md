@@ -83,6 +83,12 @@
 
 - Good use case for when requirements are not clearly defined or known from the beginning
 
+**Other consider model(s)**: 
+Incremental was also considered, but agile was the better option here as this project is in need of the quickest response time to changes and most engagement with customers.
+
+**Key Aspect(s):** 
+Customers want to use new games as soon as possible, and the requirements for the games are always changing as the customers request new products.
+
 ### 7. Global Health
 
 **Best Method:** 
