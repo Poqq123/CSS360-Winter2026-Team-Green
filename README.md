@@ -12,7 +12,7 @@
 | Andy | [@Poqq123](https://github.com/Poqq123) | 
 | Shreyas | [@shreyasbhattarai3-arch](https://github.com/shreyasbhattarai3-arch) | 
 | Andrew | [@iloveuwbsomuch](https://github.com/iloveuwbsomuch) |
-| Student 5 |
+| Hakiem | [@Hakiemh](https://github.com/Hakiemh)
 ---
 
 This repository contains coursework for CSS360. 
