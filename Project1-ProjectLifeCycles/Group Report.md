@@ -36,6 +36,10 @@
 
 - Good with teams with different experience levels
 
+ **Other considered model(s)**: 
+ We thought of waterfall as another option, since they were asking for a shopping catalog which seems pretty straight forward. However these enginners likely do not have shopping expertise so it would be good to do it iterativally with an expertee.
+
+
 ### 2. Dental Office Site
 
 **Best Method:** *Agile*
