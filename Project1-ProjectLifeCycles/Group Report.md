@@ -91,9 +91,13 @@ Customers want to use new games as soon as possible, and the requirements for th
 
 ### 7. Global Health
 
-**Best Method:** 
+**Best Method:** *Agile*
 
 **Justification:** 
+
+- Good for small teams like this project that need less overhead
+
+- Better for unclearly defined requirements, and this project seeks to address current global challenges, which may quickly evolve and emerge
 
 ---
 
