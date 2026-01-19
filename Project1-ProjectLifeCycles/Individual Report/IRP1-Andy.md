@@ -51,9 +51,11 @@
 ## Models Graph
 
 ![SDLC Model Comparison Diagram](https://www.scnsoft.com/software-development/software-development-models/8-software-development-models.png)
+
 > [Source of the first diagram](https://www.scnsoft.com/software-development/software-development-models)
 
 ![SDLC Model Circular Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240117123211/SDLC-Models-%7C-Software-Development-Models-768.jpg)
+
 > [Source of the second diagram](https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/)
 
 ## SDLC Model Comparison Table
