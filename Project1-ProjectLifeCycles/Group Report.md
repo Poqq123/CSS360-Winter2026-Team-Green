@@ -60,7 +60,7 @@
 
 - Better for risk evaluation especially for a nuclear power plant
 
-- Validation and Verification for each iteration
+- Validation and Verification for each iteration lessens the risks
 
 **Other considered model(s)**: 
 We thought of using spiral for this project. However when doing spiral you are doing multiple tests after the final product has been tone. But shis would not be a good idea because a nuclear plant has fatal risks especially when you only start testing after it is completed. 
