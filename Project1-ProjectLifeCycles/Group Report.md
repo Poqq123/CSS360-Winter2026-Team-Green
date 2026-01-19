@@ -59,6 +59,9 @@ Engineers need to do each step along side a shopping expert
 **Other considered model(s)**:
 We thought using Incremental would a good second option because the website would be built in small portions and little information would be needed. Small features like online appointments and reminders could be added later on in sperate increments. In the end we didn't choose this because agile is more flexible when you have a change of ideas.
 
+**Key Aspect(s):**
+Client wants to continually add capabilities and new features to the website. Client only needs basic features at first.
+
 ### 3. Nuclear Power Plant
 
 **Best Method:** *Spiral*
