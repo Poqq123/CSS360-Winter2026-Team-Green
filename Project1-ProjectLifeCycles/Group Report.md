@@ -49,6 +49,8 @@
 - Much more flexible
 
 - Better for an evolving product (drastic changes over time)
+- Requirements are fully defined at the beginning
+- Feedback can be added quickly
 
 ### 3. Nuclear Power Plant
 
