@@ -109,6 +109,8 @@ Customers wanting to use new games as soon as possible, and the requirements for
 - Good for small teams like this project that need less overhead
 
 - Better for unclearly defined requirements, and this project seeks to address current global challenges, which may quickly evolve and emerge
+  
+- Only a few workers so will need cross functional workflow
 
 **Other considered model(s)**: 
 Incremental was also considered, but agile was chosen here due to agile's emphasis on less overhead and simplicity, which lends itself well to small team sizes.
