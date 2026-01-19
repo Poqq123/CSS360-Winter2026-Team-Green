@@ -37,8 +37,8 @@
 
 - Good with teams with different experience levels
   
-  **Other considered model(s)**: 
-  We thought of waterfall as another option, since they were asking for a shopping catalog which seems pretty straight forward. However these enginners likely do not have shopping expertise so it would be good to do it iterativally with an expertee.
+**Other considered model(s)**: 
+We thought of waterfall as another option, since they were asking for a shopping catalog which seems pretty straight forward. However these enginners likely do not have shopping expertise so it would be good to do it iterativally with an expertee.
 
 **Key Aspect(s):** 
 Engineers need to do each step along side a shopping expert 
