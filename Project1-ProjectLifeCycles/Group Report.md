@@ -67,9 +67,11 @@
 **Best Method:** Spiral
 
 **Justification:** 
--GPS's also are high stake software  
--People need to commute to vital events in their life and can't afford an issue
--Many tests after the final software is complete
+- GPS's also are high stake software
+  
+- People need to commute to vital events in their life and can't afford an issue
+  
+- Many tests after the final software is complete
 
 ### 6. Educational Game
 
